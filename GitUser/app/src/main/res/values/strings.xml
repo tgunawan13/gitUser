@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git User</string>
+    <string name="query_hints">Search Github users </string>
+    <string name="error_search_user">User not found</string>
+    <string name="error_API_limit">You reach limit of 10 times hit API, please try again later...</string>
+
+</resources>
